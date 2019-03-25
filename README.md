@@ -1,4 +1,4 @@
-# 吉林大学考研信息汇总
+# 吉林大学计算机考研信息汇总
 [计算机科学与技术学院](http://ccst.jlu.edu.cn/)
 [软件学院](http://csw.jlu.edu.cn/)
 [人工智能学院](http://sai.jlu.edu.cn/)
