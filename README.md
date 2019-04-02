@@ -50,7 +50,7 @@
 
 ## 初试篇
 ### 华中师范考研重要网站
-- [王道论坛](http://cskaoyan.com)
+- [王道论坛](http://cskaoyan.com/forum.php?mod=forumdisplay&fid=306&filter=typeid&typeid=48)
 - [华中师范大学研招网](http://gs.ccnu.edu.cn)
 - [计算机学院](http://cs.ccnu.edu.cn/)
 - [国家数字化学习工程技术研究中心](http://nercel.ccnu.edu.cn/)
